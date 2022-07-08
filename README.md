@@ -1,7 +1,7 @@
 # AlgoHack-Jam- 
  
  
- Novice Track
+ Novice Track 
 
 # Inspiration
 
